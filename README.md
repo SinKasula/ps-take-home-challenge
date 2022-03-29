@@ -1,4 +1,6 @@
 <h1>ps-take-home-challenge</h1>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SinKasula/ps-take-home-challenge/main?labpath=%2FLib%2FZeta_Disease_Prediction.ipynb)
+
 
 This repository is a take-home project. The project is to build a data-driven system for Mars Mission Control to predict Zeta Disease infection on the International Mars Colony.
 
