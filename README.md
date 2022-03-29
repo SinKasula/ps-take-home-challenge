@@ -1,4 +1,5 @@
 <h1>ps-take-home-challenge</h1>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SinKasula/ps-take-home-challenge/main?labpath=%2FLib%2FZeta_Disease_Prediction.ipynb)
 
 
@@ -24,3 +25,5 @@ To install the requirements using pip, run the following at the command-line:
 $ pip install -r requirements.txt
 
 Suggest to create a stand-alone virtual enironment for this project. 
+
+Other Ways to run - via binder by clicking on lauch icon on top which creates an interactive notebook.
